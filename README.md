@@ -59,9 +59,10 @@ cd AI-Stack
 Install Dependencies
 ```bash
 pip install -r requirements.txt
+```
 🔧 Setting Up Your Local Repo
 Add the Upstream Repository
-```
+
 
 ```bash
 git remote add upstream https://github.com/Doubtroom/AI-Stack.git
@@ -71,8 +72,11 @@ Sync with Latest Code
 ```bash
 git checkout main
 git pull upstream main
-Create a Feature Branch
+
 ```
+
+Create a Feature Branch
+
 ```bash
 git checkout -b <feature-name>
 ```
@@ -101,8 +105,9 @@ Stage and Commit Changes
 ```bash
 git add .
 git commit -m "✨ Added <your feature or fix summary>"
-Push to Your Branch
 ```
+Push to Your Branch
+
 
 ```bash
 git push origin <feature-name>
