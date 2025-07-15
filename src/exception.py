@@ -21,6 +21,8 @@ class CustomException(Exception):
         return self.error_message 
     
 
+
+# for exception handling
 if __name__== "__main__":
     try:
         a= 1/0
