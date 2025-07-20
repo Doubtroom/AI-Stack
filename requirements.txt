@@ -1,1 +1,7 @@
 pymongo
+numpy
+opencv-python
+pytesseract
+PIL
+transformers
+torch
