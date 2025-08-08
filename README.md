@@ -145,7 +145,7 @@ AI-Stack/
 │   ├── models/           
 │   ├── pipelines/        
 │   ├── prompts/          
-│   ├── utils.py          
+│   ├── utils/          
 │   ├── log.py            
 │   └── exception.py      
 │
